@@ -1,0 +1,7 @@
+#jisuspring.config.autoconfig.ServerPropertiesConfig
+jisuspring.config.autoconfig.DataSourceConfig
+jisuspring.config.autoconfig.PropertyPostProcessorConfig
+jisuspring.config.autoconfig.PropertyPlaceholderConfig
+jisuspring.config.autoconfig.TomcatWebServerConfig
+jisuspring.config.autoconfig.JettyWebServerConfig
+jisuspring.config.autoconfig.DispatcherServletConfig
